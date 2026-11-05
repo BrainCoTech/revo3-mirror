@@ -4,6 +4,8 @@ A desktop URDF viewer that follows the measured joint angles of a Revo3 hand
 over RS485. Includes left and right visual models and a zero-force / pose-hold
 switch for all 21 joints.
 
+![Moving the Revo3 fingers by hand while the on-screen model follows their motion.](docs/live-mirror.gif)
+
 ## Install
 
 Requires Python 3.10 or 3.11 with `venv` support, a graphical desktop with OpenGL,
